@@ -76,7 +76,7 @@ JB :
   rss_path : /rss.xml
   about_path : /about
   projects_path : /projects
-  resume_path : /resume
+  resume_path : /resume.pdf
   blog_path : http://blog.chingyunh.com
 
   # Settings for comments helper
