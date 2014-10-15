@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-![Alt text]({{ site.BASE_PATH }}/images/FaceQPortrait.png)
+![Alt text]({{ site.BASE_PATH }}/portrait.png)
 
 I love math and science. I build apps and websites. 
 
