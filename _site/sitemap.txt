@@ -3,7 +3,6 @@ http://chingyunh.github.io/about/index.html
 http://chingyunh.github.io/archive.html
 http://chingyunh.github.io/atom.xml
 http://chingyunh.github.io/categories.html
-http://chingyunh.github.io/index.html
 http://chingyunh.github.io/pages/about/index.html
 http://chingyunh.github.io/pages.html
 http://chingyunh.github.io/projects/index.html
